@@ -5,3 +5,5 @@ verified file was in folder with ls command
 opened file with start testAM.txt
 
 This is a test sentence.
+
+This is another test sentence.
