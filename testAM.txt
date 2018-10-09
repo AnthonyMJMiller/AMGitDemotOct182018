@@ -1,0 +1,7 @@
+Create a folder with mkdir command
+navigated to said folder with cd command
+used touch command to create file
+verified file was in folder with ls command
+opened file with start testAM.txt
+
+This is a test sentence.
